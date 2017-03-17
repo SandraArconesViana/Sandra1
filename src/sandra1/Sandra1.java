@@ -16,6 +16,7 @@ public class Sandra1 {
      */
     public static void main(String[] args) {
         System.out.println("Hola sandra");
+        System.out.println("Hola sandra2");
         // TODO code application logic here
     }
     
