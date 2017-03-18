@@ -18,6 +18,7 @@ public class Sandra1 {
         System.out.println("Hola sandra");
         System.out.println("Hola sandra2");
         System.out.println("Hola");
+        System.out.println("HASTA luegui");
         // TODO code application logic here
     }
     
